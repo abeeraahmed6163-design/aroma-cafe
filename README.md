@@ -1,2 +1,18 @@
-# aroma-cafe
-A responsive café website showcasing modern web design principles using HTML, CSS, and JavaScript. Includes a sticky navigation bar, animated mobile menu, smooth scrolling, and a clean, user-friendly interface.
+# Aroma Cafe ☕
+
+A modern and responsive coffee shop website built using HTML, CSS, and JavaScript.
+
+## Features
+- Responsive Design
+- Sticky Navigation
+- Mobile Hamburger Menu
+- Smooth Scrolling
+- Interactive UI
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Author
+Abeera Ahmed
